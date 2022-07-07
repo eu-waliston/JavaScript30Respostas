@@ -1,0 +1,22 @@
+console.table() index.js:31:9
+(índice)
+first
+last
+year
+passed
+0
+Galileo
+Galilei
+1564
+1642
+1
+Johannes
+Kepler
+1571
+1630
+GEThttp://127.0.0.1:5500/favicon.ico
+[HTTP/1.1 404 Not Found 0ms]
+
+GEThttp://127.0.0.1:5500/favicon.ico
+[HTTP/1.1 404 Not Found 8ms]
+
